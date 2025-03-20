@@ -1,5 +1,6 @@
 # MvAIE-for-Image-Enhancement
 # Multi-view Adaptive Image Enhancement with Hierarchical Attention for Complex Underground Mining Scenes
+#  Introduction
 The Multi-view Adaptive Image Enhancement with Hierarchical Attention Network (MvAIE) is designed to enhance images in underground mines, specifically tackling challenges posed by darkness, fog, and glare. 
 
 This code was collaboratively developed by Wuhan University of Technology and The Hong Kong Polytechnic University to enhance perception capabilities for autonomous driving in underground mines, facilitating the practical implementation of autonomous driving technology in such environments.
