@@ -11,4 +11,12 @@ The harsh environmental conditions in underground mines, including low illuminat
 
 ![Figure_2](https://github.com/user-attachments/assets/f4df3958-ef1b-4a89-99bb-c0bbda40cee6)
 
+# Result
+
+The visual comparison result on (a) synthesized degraded CDD-11 images with (b) 4kdehaze , (c) APSF , (d) C2PNet, (e) DHFormer, (f) GMLC, (g) IENHC, (h) MRP, (i) OSFD, (j) Our method, and (k) Gronud Truth, respectively.
+![Figure15](https://github.com/user-attachments/assets/4bb2c1cf-9e06-404e-a000-ed0368e1cb2c)
+
+The visual comparison result on (a) synthesized degraded mining images with (b) 4kdehaze , (c) APSF , (d) C2PNet, (e) DHFormer, (f) GMLC, (g) IENHC, (h) MRP, (i) OSFD, (j) Our method, and (k) Gronud Truth, respectively.
+![Figure16](https://github.com/user-attachments/assets/5170c1c4-fd96-468b-9fe9-d57f2f92c7cf)
+
 
