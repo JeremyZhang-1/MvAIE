@@ -11,6 +11,15 @@ The harsh environmental conditions in underground mines, including low illuminat
 
 ![Figure_2](https://github.com/user-attachments/assets/f4df3958-ef1b-4a89-99bb-c0bbda40cee6)
 
+# Prerequisites
+```
+conda create -n dehaze python=3.7
+conda activate dehaze
+conda install pytorch=1.10.2 torchvision torchaudio cudatoolkit=11.3 -c pytorch
+python3 -m pip install scipy==1.7.3
+python3 -m pip install opencv-python==4.4.0.46
+```
+
 # Result
 
 The visual comparison result on (a) synthesized degraded CDD-11 images with (b) 4kdehaze , (c) APSF , (d) C2PNet, (e) DHFormer, (f) GMLC, (g) IENHC, (h) MRP, (i) OSFD, (j) Our method, and (k) Gronud Truth, respectively.
@@ -19,4 +28,9 @@ The visual comparison result on (a) synthesized degraded CDD-11 images with (b) 
 The visual comparison result on (a) synthesized degraded mining images with (b) 4kdehaze , (c) APSF , (d) C2PNet, (e) DHFormer, (f) GMLC, (g) IENHC, (h) MRP, (i) OSFD, (j) Our method, and (k) Gronud Truth, respectively.
 ![Figure16](https://github.com/user-attachments/assets/5170c1c4-fd96-468b-9fe9-d57f2f92c7cf)
 
+# License
+The code and models in this repository are licensed under the WHUT License for academic and other non-commercial uses.
+For commercial use of the code and models, separate commercial licensing is available. Please contact:
+- Jingming Zhang (jeremy.zhang@whut.edu.cn)
+- Yuxu LU (yuxulouis.lu@connect.polyu.hk)
 
