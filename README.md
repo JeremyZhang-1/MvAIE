@@ -1,4 +1,4 @@
-![Figure_3_1](https://github.com/user-attachments/assets/be420c52-8258-4d28-b7a3-40ef6437feb2)# MvAIE-for-Image-Enhancement
+# MvAIE-for-Image-Enhancement
 # Multi-view Adaptive Image Enhancement with Hierarchical Attention for Complex Underground Mining Scenes
 #  Introduction
 The Multi-view Adaptive Image Enhancement with Hierarchical Attention Network (MvAIE) is designed to enhance images in underground mines, specifically tackling challenges posed by darkness, fog, and glare. 
@@ -17,7 +17,7 @@ Coal remains a vital element of the global energy landscape, with underground mi
 ![Figure_3_1](https://github.com/user-attachments/assets/055a3984-6277-4fac-a29f-3ce1cd92ed0b)
 
 # Multi-view adaptive image enhancement network
-![Figure_2](https://github.com/user-attachments/assets/f4df3958-ef1b-4a89-99bb-c0bbda40cee6)
+![Figure_2_1](https://github.com/user-attachments/assets/4e3ce85e-67be-481c-bbf8-3ea811a0a555)
 
 # Prerequisites
 ```
