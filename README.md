@@ -1,4 +1,4 @@
-# MvAIE-for-Image-Enhancement
+![Figure_3_1](https://github.com/user-attachments/assets/be420c52-8258-4d28-b7a3-40ef6437feb2)# MvAIE-for-Image-Enhancement
 # Multi-view Adaptive Image Enhancement with Hierarchical Attention for Complex Underground Mining Scenes
 #  Introduction
 The Multi-view Adaptive Image Enhancement with Hierarchical Attention Network (MvAIE) is designed to enhance images in underground mines, specifically tackling challenges posed by darkness, fog, and glare. 
@@ -8,7 +8,15 @@ This code was collaboratively developed by Wuhan University of Technology and Th
 # Abstract
 The harsh environmental conditions in underground mines, including low illumination, haze, and dust, pose significant challenges to the visual perception systems of autonomous mining vehicles. To address these challenges, this paper proposes a novel multi-view adaptive image enhancement with Hierarchical Attention (MvAIE) that combines adaptive enhancement with multi-view feature fusion strategies to achieve efficient and precise image restoration. Specifically, the proposed adaptive enhancement module dynamically adjusts gamma correction and HSV color space parameters in response to varying lighting and color conditions. Furthermore, the multi-branch feature fusion module leverages dilated convolutions and a hierarchical encoder-decoder structure to extract features across multiple scales, capturing both global context and fine details. It is particularly effective for recovering essential features such as object edges and textures in degraded images, directly benefiting task-specific performance. To further enhance task relevance, the framework incorporates a multi-receptive global-local attention mechanism that prioritizes critical image regions, improving the network’s focus on areas important for accurate object detection and localization. By aligning the enhancement process with the requirements of downstream tasks, MvAIE ensures that restored images not only achieve superior visual quality but also provide robust support for autonomous mining applications. Experimental results demonstrate that MvAIE outperforms existing methods in enhancing image quality, providing robust support for autonomous driving in intelligent mining applications.
 
+# Introduction
+Coal remains a vital element of the global energy landscape, with underground mining areas at the heart of its production process. Underground mining environments present complex operational challenges due to inadequate lighting along with haze and dust which create dangerous terrain conditions. Manual mining operations become much more hazardous and challenging due to these working conditions. Autonomous mining vehicles (AMV) reduce human exposure to dangerous zones while lowering accident risks and facilitate round-the-clock operations. The implementation of autonomous systems in underground mining faces significant imaging challenges. Experts suggest implementing low-visibility image enhancement techniques to help AMV perform precise environmental perception even in complex conditions which will lead to safer and more efficient operations. Image enhancement methods are divided into two main categories which include physical-based and learning-based methods.
 
+![Figure07](https://github.com/user-attachments/assets/e121bfff-6ede-4481-890b-40fc8dbc4c37)
+
+# Mine imaging degradation
+![Figure_3_1](https://github.com/user-attachments/assets/055a3984-6277-4fac-a29f-3ce1cd92ed0b)
+
+# Multi-view adaptive image enhancement network
 ![Figure_2](https://github.com/user-attachments/assets/f4df3958-ef1b-4a89-99bb-c0bbda40cee6)
 
 # Prerequisites
